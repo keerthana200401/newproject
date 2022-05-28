@@ -1,0 +1,26 @@
+.app{
+    color: rgb(177, 34, 34);
+    
+  
+}
+
+.container{
+    background-color: rgb(219, 124, 156);
+    padding: 2px;
+    
+}
+
+.b{
+    background-color: plum;
+    
+    
+}
+.cardbg{
+    background-image: url('https://th.bing.com/th/id/OIP.9PKrm3rmBw5BskYz1sccKgHaEo?w=241&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7');
+    height: 100vh;
+}
+.fal{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(#e66465, #9198e5);
+}
